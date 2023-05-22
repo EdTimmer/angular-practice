@@ -1,0 +1,8 @@
+<p>users works!</p>
+<p>{{ id }}</p>
+<div *ngFor="let user of areas">
+  <!-- {{
+    user.name
+  }} -->
+  <li role="presentation"><a [routerLink]="[user.id]">{{user.name}}</a></li>
+</div>

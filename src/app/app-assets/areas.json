@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Bob Belcher",
+    "slug": "bob-belcher"
+  },
+  {
+    "id": 2,
+    "name": "Linda Burger",
+    "slug": "linda-belcher"
+  },
+  {
+    "id": 3,
+    "name": "Teddy",
+    "slug": "teddy"
+  },
+  {
+    "id": 4,
+    "name": "Tina Belcher",
+    "slug": "tina-belcher"
+  },
+  {
+    "id": 5,
+    "name": "Gene Belcher",
+    "slug": "gene-belcher"
+  },
+  {
+    "id": 6,
+    "name": "Louise Belcher",
+    "slug": "louise-belcher"
+  }
+]
